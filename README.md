@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, welcome to my GitHub!
 
-<!--
-**FlynnPeters15/FlynnPeters15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m YOUR NAME — short blurb about you (degree/program, interests, what you’re looking for).
 
-Here are some ideas to get you started:
+## Portfolio
+- **Project A** – one-liner about impact + [repo](#) • [demo](#)
+- **Project B** – one-liner about impact + [repo](#) • [post](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/YOURHANDLE) • [Website](https://YOURUSER.github.io/) • email@domain.com
+
+## Languages & Tools
+<!-- Devicon SVGs -->
+<img alt="Python" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img alt="SQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<!-- add more from devicon.dev -->
+
+## Stats
+<!-- GitHub Readme Stats cards -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSER&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSER&layout=compact)
+
