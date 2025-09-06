@@ -1,44 +1,45 @@
-# Hi there, I’m Flynn Peters 👋  
+# Hi there 
 
-I am a data-driven professional with a Bachelor of Science in Finance from the University of Illinois. My career began in traditional finance, and I now work at the Chicago Mercantile Exchange as a Trade Investigator and Data Analyst. In this role, I leverage data to detect market irregularities and potential rule violations, ensuring fairness and integrity in the markets.  
+My name is **Flynn Peters**. I graduated from the University of Illinois with a **Bachelor of Science in Finance**.  
+I began my career in traditional finance and currently work at the **Chicago Mercantile Exchange** as a **Trade Investigator / Data Analyst**. In this role, I leverage data to detect market irregularities and potential rule violations, ensuring transparency and fairness in financial markets.  
 
-I am deeply interested in how data science can be applied to solve practical, real-world challenges—particularly in areas where finance, markets, and analytics intersect. My long-term goal is to combine my finance background with advanced analytical methods to build innovative, impactful solutions.  
+I am particularly passionate about applying **data science** to solve practical, real-world problems. My interests lie at the intersection of finance, data, and technology—where rigorous analysis and innovative approaches can create meaningful impact.
 
 ---
 
-## 📂 Portfolio  
+## 📂 Portfolio
 
-Here are some of my featured projects (pinned repositories from my GitHub):  
+Here are some of my featured projects (pinned repositories):
 
-<!-- Replace the repo names below with your actual pinned repos -->
-- [**Project 1: Title**](https://github.com/FlynnPeters15/REPO1) – One-line description of what the project does or why it matters.  
-- [**Project 2: Title**](https://github.com/FlynnPeters15/REPO2) – One-line description.  
-- [**Project 3: Title**](https://github.com/FlynnPeters15/REPO3) – One-line description.  
-- [**Project 4: Title**](https://github.com/FlynnPeters15/REPO4) – One-line description.  
-- [**Project 5: Title**](https://github.com/FlynnPeters15/REPO5) – One-line description.  
-- [**Project 6: Title**](https://github.com/FlynnPeters15/REPO6) – One-line description.  
+- **[Repo 1](https://github.com/FlynnPeters15/REPO1)** – One-line description of the project’s purpose and tools used.  
+- **[Repo 2](https://github.com/FlynnPeters15/REPO2)** – Short description here.  
+- **[Repo 3](https://github.com/FlynnPeters15/REPO3)** – Short description here.  
+- **[Repo 4](https://github.com/FlynnPeters15/REPO4)** – Short description here.  
+- *(Add more if pinned)*
 
-*(Tip: Add clear, professional READMEs to each repo with Problem → Approach → Results → Tech Stack.)*
+---
+
+## 🌐 Connect with Me  
+
+<a href="https://www.linkedin.com/in/flynn-peters-a3960a1b2/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40"/>
+</a>
 
 ---
 
 ## 🛠️ Languages & Tools  
 
-<!-- Add/remove icons from devicon.dev as needed -->
-<img alt="Python" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="R" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-<img alt="SQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img alt="Git" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img alt="Tableau" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg">
+<p>
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="R" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"/>
+  <img alt="SQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <!-- Add more icons if you use other languages/tools -->
+</p>
 
 ---
 
-## 📊 Languages Overview  
+## 📊 Most Used Languages  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlynnPeters15&layout=compact)
-
----
-
-## 🤝 Connect with Me  
-
-[LinkedIn](https://www.linkedin.com/in/flynn-peters-a3960a1b2/)  
