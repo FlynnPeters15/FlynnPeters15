@@ -11,11 +11,9 @@ I am particularly passionate about applying **data science** to solve practical,
 
 Here are some of my featured projects (pinned repositories):
 
-- **[Repo 1](https://github.com/FlynnPeters15/REPO1)** – One-line description of the project’s purpose and tools used.  
-- **[Repo 2](https://github.com/FlynnPeters15/REPO2)** – Short description here.  
-- **[Repo 3](https://github.com/FlynnPeters15/REPO3)** – Short description here.  
-- **[Repo 4](https://github.com/FlynnPeters15/REPO4)** – Short description here.  
-- *(Add more if pinned)*
+- **[Gallerio](https://github.com/FlynnPeters15/Gallerio)** – A gallery web application designed to showcase projects and creative work with a clean, user-friendly interface.  
+- **[UIUC BADM 211 Final Project](https://github.com/FlynnPeters15/UIUC-BADM-211-Final-Project-)** – Team project applying business analytics concepts to real-world case data, focusing on insights and decision-making.  
+- **[UIUC FIN 411 Inflation and Economic Model](https://github.com/FlynnPeters15/UIUC-Fin-411-Inflation-and-Economic-Model-)** – An econometric analysis modeling inflationary trends and key macroeconomic indicators.  
 
 ---
 
