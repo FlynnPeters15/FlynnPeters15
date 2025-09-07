@@ -9,11 +9,11 @@ I am particularly passionate about applying **data science** to solve practical,
 
 ## 📂 Portfolio
 
-Here are some of my featured projects (pinned repositories):
+Check out my personal portfolio website:
 
-- **[Gallerio](https://github.com/FlynnPeters15/Gallerio)** – A gallery web application designed to showcase projects and creative work with a clean, user-friendly interface.  
-- **[UIUC BADM 211 Final Project](https://github.com/FlynnPeters15/UIUC-BADM-211-Final-Project-)** – Team project applying business analytics concepts to real-world case data, focusing on insights and decision-making.  
-- **[UIUC FIN 411 Inflation and Economic Model](https://github.com/FlynnPeters15/UIUC-Fin-411-Inflation-and-Economic-Model-)** – An econometric analysis modeling inflationary trends and key macroeconomic indicators.  
+<a href="https://flynnpeters15.github.io/Flynn-Peters-Portfolio-/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio Website" height="40"/>
+</a>
 
 ---
 
