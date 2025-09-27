@@ -1,9 +1,9 @@
 # Hi, Welcome to my GitHub
 
 My name is **Flynn Peters**. I graduated from the University of Illinois with a **Bachelor of Science in Finance**.  
-I began my career in traditional finance and currently work at the **Chicago Mercantile Exchange** as a **Trade Investigator / Data Analyst**. In this role, I leverage data to detect market irregularities and potential rule violations, ensuring transparency and fairness in financial markets.  
+I began my career in traditional finance and currently work at the **Chicago Mercantile Exchange** as a **Trade Investigator / Data Analyst**. In this role, I use data to detect market irregularities and potential rule violations, ensuring transparency and fairness in financial markets.  
 
-I am particularly passionate about applying **data science** to solve practical, real-world problems. My interests lie at the intersection of finance, data, and technology—where new approaches to analysis can make an impact
+I am particularly passionate about applying **data science** to solve practical, real-world problems. My interests are at the intersection of finance, data, and technology, where new approaches to analysis can make an impact
 
 ---
 
